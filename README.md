@@ -1,2 +1,2 @@
-# Spring Core Demo Annotation
+# Spring Core Demo using annotation configuration
 
